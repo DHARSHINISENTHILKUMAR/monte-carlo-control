@@ -140,13 +140,14 @@ results(env, optimal_pi, goal_state=goal_state)
 
 ```
 ## OUTPUT:
-State - Value Function
-https://user-images.githubusercontent.com/94677128/275318623-2a594b57-5413-4b91-8d31-58c9391c096f.png
-Action - Value Function
-https://user-images.githubusercontent.com/94677128/275318625-dd340ab5-17de-4b9f-8d57-7f059b753e06.png
-Policy
-https://user-images.githubusercontent.com/94677128/275318632-c3558b65-fe4a-4714-9868-f938ad9a140e.png
+### State - Value Function
+![image](https://github.com/DHARSHINISENTHILKUMAR/monte-carlo-control/assets/113699377/0c6435c0-c610-45ba-bd9e-d5cfd5b81da8)
+### Action - Value Function
+![image](https://github.com/DHARSHINISENTHILKUMAR/monte-carlo-control/assets/113699377/b2fec1e9-8892-4beb-a14c-e2072f36e8c5)
+### Policy
+![image](https://github.com/DHARSHINISENTHILKUMAR/monte-carlo-control/assets/113699377/60e5887c-d957-4c29-bea9-b321f9046783)
 ### Success Percentage of Policy
-https://user-images.githubusercontent.com/94677128/275318640-3effb823-e249-4ce7-9c6e-e1cb88a19d68.png
+![image](https://github.com/DHARSHINISENTHILKUMAR/monte-carlo-control/assets/113699377/9ac6fbc8-d0ee-44a1-8c7f-03d7b7386e6e)
+
 ## RESULT:
 Thus a Python program is developed to find the optimal policy for the given RL environment using the Monte Carlo algorithm.
