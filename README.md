@@ -20,7 +20,8 @@ The agent has 4 possible actions:
 The agent receives a reward of 1 for reaching the goal state, and a reward of 0 otherwise.
 
 ### Graphical Representation
-https://user-images.githubusercontent.com/94677128/275318435-7c333f74-adc4-4b85-80e0-88dea3a8e155.png
+![image](https://github.com/DHARSHINISENTHILKUMAR/monte-carlo-control/assets/113699377/35c5820d-af9d-4566-8ec2-1c642e160a4f)
+
 ## MONTE CARLO CONTROL ALGORITHM
 1. Initialize the state value function V(s) and the policy π(s) arbitrarily.
 2. Generate an episode using π(s) and store the state, action, and reward sequence.
